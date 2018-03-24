@@ -1,2 +1,4 @@
 git test
 git commit -e test
+git reset HEAD test
+git diff test
