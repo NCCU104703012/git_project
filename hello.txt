@@ -1,9 +1,6 @@
 git test
 git commit -e test
-<<<<<<< HEAD
 git reset HEAD test
 git diff test
-=======
 
 git branch test
->>>>>>> branch_2
